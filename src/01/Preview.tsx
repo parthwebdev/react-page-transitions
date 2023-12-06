@@ -46,12 +46,7 @@ function Preview() {
             5 and Xbox Series X|S.
           </motion.p>
         </div>
-        {/* <p className="text-lg"></p> */}
-
-        {/* <p>Characters: Dual protagonists, Jason and Lucia</p> */}
       </div>
-
-      {/* <p>GTA 6 is taking us back to Vice City.</p> */}
     </div>
   );
 }

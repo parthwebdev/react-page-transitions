@@ -1,6 +1,6 @@
 import { AnimatePresence } from "framer-motion";
 import { Route, Routes, useLocation } from "react-router-dom";
-import Root from "../Root";
+import Root from "./Root";
 import Home from "./Home";
 import Preview from "./Preview";
 

@@ -14,8 +14,4 @@
   body {
     @apply font-robotoMono bg-neutral-900 text-gray-100;
   }
-
-  /* h1 {
-    @apply font-darker;
-  } */
 }

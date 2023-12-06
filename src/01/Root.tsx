@@ -1,6 +1,6 @@
 import { Outlet } from "react-router-dom";
 
-import Navbar from "./01/Navbar";
+import Navbar from "./Navbar";
 
 function Root() {
   return (
