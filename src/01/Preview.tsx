@@ -8,7 +8,7 @@ import AnimatedText from "./AnimatedText";
 function Preview() {
   return (
     <div className="relative w-full h-full flex justify-center items-center">
-      <h3 className="absolute top-[6%] uppercase text-gray-400">
+      <h3 className="absolute top-[6%] uppercase text-2xl font-semibold text-gray-400">
         Preview Page
       </h3>
 
